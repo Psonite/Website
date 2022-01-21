@@ -12,5 +12,9 @@ body {
 h1 {
 
   font-size: 100px;
-
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+  
 }
