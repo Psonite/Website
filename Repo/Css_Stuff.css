@@ -16,9 +16,8 @@ h1 {
 }
 
 div.imag {
-  text-align: center;
-  width: 500px;
-  height: 500px;
+  
   box-shadow: 500px 500px black;
+  text-align: center;
   
 }
