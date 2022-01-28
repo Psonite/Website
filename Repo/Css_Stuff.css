@@ -16,7 +16,9 @@ h1 {
 }
 
 div.imag {
-  width: 250px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
+  width: 500px;
+  height: 500px;
+  box-shadow: 500px 500px black;
+  
 }
