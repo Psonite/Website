@@ -48,6 +48,13 @@ h2 {
 
 }
 
+#work img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
 .tall {
   grid-span: span 20;
   box-shadow: 0px 0px 25px 5px #222222;
