@@ -38,7 +38,7 @@ h2 {
 #work {
   
   grid-template-columns: 1fr 1fr;
-  width: 25%;
+  width: 100%;
   display: grid;
   grid-gap: 7px;
   padding-bottom: 10px;
