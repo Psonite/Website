@@ -37,12 +37,11 @@ h2 {
 
 #work {
   
-  width: 100%;
+  width: 25%;
   display: grid;
   grid-gap: 7px;
   padding-bottom: 10px;
   box-shadow: 0px 0px 25px 5px #222222;
-  width: 100%;
   
 }
 
