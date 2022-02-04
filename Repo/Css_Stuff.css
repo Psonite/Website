@@ -46,3 +46,24 @@ h2 {
   height: 30%;
   
 }
+
+#work {
+  
+  width: 100%;
+  display: grid;
+  grid-gap: 7px;
+  padding-bottom: 10px;
+  
+}
+
+.tall {
+  grid-span: span 20;
+}
+
+.square {
+  grid-span: span 16;
+}
+
+.wide {
+  hrid-span: span 9;
+}
