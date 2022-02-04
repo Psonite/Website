@@ -4,6 +4,7 @@ body {
   background-image: url("Seamless.png");
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
+  vertical-align: baseline;
   color: white;
   
 }
